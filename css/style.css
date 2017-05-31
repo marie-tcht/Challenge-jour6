@@ -1,0 +1,74 @@
+body {
+	background: #0ac3a7;
+	color: #fffdd8;
+	font-family: Helvetica;
+}
+
+#root {
+	padding: 30px;
+	text-align: center;
+}
+
+#header {
+	position: relative;
+}
+
+#image-fleche {
+	position: absolute;
+	top: 1em;
+	right: 1.5em;
+}
+
+#fleche {
+	position: absolute;
+	top: 4.5em;
+	right: 0.5em;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+#image-oclock {
+	width: 500px;
+	padding-top: 10em;
+	padding-bottom: 5em;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 1.5em;
+	padding-bottom: 1.5em;
+}
+
+p {
+	padding: 0.3em;
+}
+
+em {
+	font-style: italic;
+}
+
+#form {
+	background-color: lightgrey;
+	border: 1em solid lightgrey;
+	width: 700px;
+	display: inline-block;
+	color: #555;
+	text-align: left;
+	margin: 5em;
+	padding: 1.5em;
+	font-size: 0.9em;
+}
+
+#GO {
+	position: relative;
+}
+
+#button {
+	position: absolute;
+}
+
+#bottom {
+	font-size: 0.8em;
+	text-align: left;
+	margin: 2em;
+}
